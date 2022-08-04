@@ -1,1 +1,2 @@
 # Notify_Shift_Submission_Deadline
+シフト締め切り日前日に締切日をリマインダー
